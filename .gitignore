@@ -1,0 +1,58 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+node_modules
+
+package-lock.json
+package.json
+
+# Archivos de configuración
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de entorno
+.env
+
+# Directorios de cobertura de pruebas
+coverage/
+
+# Directorios de compilación
+dist/
+build/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de entorno
+.env
+
+# Directorios de cobertura de pruebas
+coverage/
+
+# Directorios de compilación
+dist/
